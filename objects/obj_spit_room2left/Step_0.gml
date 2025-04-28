@@ -25,10 +25,11 @@ show_debug_message(string("debug message"));
 /// @DnDVersion : 1.1
 /// @DnDHash : 1EF6EDB4
 /// @DnDParent : 7B44B14A
+/// @DnDArgument : "x" "(sign(move_x)) * 4"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "collisions_tilemap"
-var l1EF6EDB4_0 = instance_place(x + 0, y + 0, [collisions_tilemap]);
+var l1EF6EDB4_0 = instance_place(x + (sign(move_x)) * 4, y + 0, [collisions_tilemap]);
 if ((l1EF6EDB4_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
@@ -43,8 +44,7 @@ if ((l1EF6EDB4_0 > 0))
 /// @DnDHash : 01B9A216
 /// @DnDParent : 7B44B14A
 /// @DnDArgument : "xvel" "move_x"
-/// @DnDArgument : "yvel" "10"
 /// @DnDArgument : "maxxmove" "walk_speed"
-/// @DnDArgument : "maxymove" "10"
+/// @DnDArgument : "maxymove" "0"
 /// @DnDArgument : "object" "collisions_tilemap"
-move_and_collide(move_x, 10, collisions_tilemap,4,0,0,walk_speed,10);
+move_and_collide(move_x, 0, collisions_tilemap,4,0,0,walk_speed,0);
