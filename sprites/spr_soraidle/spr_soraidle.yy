@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_soraidle",
   "bboxMode":2,
-  "bbox_bottom":28,
+  "bbox_bottom":30,
   "bbox_left":7,
   "bbox_right":23,
   "bbox_top":5,
