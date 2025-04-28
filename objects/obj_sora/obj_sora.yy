@@ -16,6 +16,8 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_spit","path":"objects/obj_spit/obj_spit.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_demenite","path":"objects/obj_demenite/obj_demenite.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_demenite_room2","path":"objects/obj_demenite_room2/obj_demenite_room2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_spdrstation_1","path":"objects/obj_spdrstation_1/obj_spdrstation_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_spdrwalk_1","path":"objects/obj_spdrwalk_1/obj_spdrwalk_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_sora",
