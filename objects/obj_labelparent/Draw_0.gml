@@ -29,6 +29,16 @@ draw_set_valign(fa_center);
 /// @DnDArgument : "var" "text_data"
 draw_text(x + -40, y + 60, string("In case of an emergency, press the SHIFT key to restart the level.") + string(text_data));
 
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 62576C36
+/// @DnDArgument : "x" "-40"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""Press F to Ground Pound. This cancels air momentum!""
+/// @DnDArgument : "var" "text_data"
+draw_text(x + -40, y + 0, string("Press F to Ground Pound. This cancels air momentum!") + string(text_data));
+
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
 /// @DnDHash : 5902CDA6

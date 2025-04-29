@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sorahandsup",
-    "path":"sprites/spr_sorahandsup/spr_sorahandsup.yy",
+    "name":"spr_soraidle",
+    "path":"sprites/spr_soraidle/spr_soraidle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
