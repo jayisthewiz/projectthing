@@ -24,6 +24,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_spit_room2left","path":"objects/obj_spit_room2left/obj_spit_room2left.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_softspittaleft_room1","path":"objects/obj_softspittaleft_room1/obj_softspittaleft_room1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":70,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_goldencoconut","path":"objects/obj_goldencoconut/obj_goldencoconut.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_sora",

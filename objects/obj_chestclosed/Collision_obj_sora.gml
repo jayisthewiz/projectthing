@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 60FB4A6A
 /// @DnDArgument : "xpos_relative" "1"
-/// @DnDArgument : "ypos" "-30"
+/// @DnDArgument : "ypos" "-60"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "obj_goldencoconut"
 /// @DnDSaveInfo : "objectid" "obj_goldencoconut"
-instance_create_layer(x + 0, y + -30, "Instances", obj_goldencoconut);
+instance_create_layer(x + 0, y + -60, "Instances", obj_goldencoconut);
 
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1

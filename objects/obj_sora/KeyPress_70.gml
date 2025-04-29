@@ -7,10 +7,10 @@ show_debug_message(string("BOOST"));
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 79EF63F4
-/// @DnDArgument : "expr" "-jump_speed + 60"
+/// @DnDArgument : "expr" "-jump_speed + 30"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "move_y"
-move_y += -jump_speed + 60;
+move_y += -jump_speed + 30;
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
