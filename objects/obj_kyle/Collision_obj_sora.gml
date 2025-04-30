@@ -15,4 +15,12 @@ if(other.y < self.y + 20)
 	/// @DnDSaveInfo : "spriteind" "spr_kyledeath"
 	sprite_index = spr_kyledeath;
 	image_index += 0;
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 380F922C
+	/// @DnDParent : 101D5A07
+	/// @DnDArgument : "soundid" "Sound11"
+	/// @DnDSaveInfo : "soundid" "Sound11"
+	audio_play_sound(Sound11, 0, 0, 1.0, undefined, 1.0);
 }

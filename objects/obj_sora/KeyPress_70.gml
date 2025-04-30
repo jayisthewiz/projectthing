@@ -18,5 +18,12 @@ move_y += -jump_speed + 30;
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "2"
-/// @DnDArgument : "color" "$FF0CD6EE"
-effect_create_below(2, x + 0, y + 0, 0, $FF0CD6EE & $ffffff);
+/// @DnDArgument : "color" "$FFEDB50E"
+effect_create_below(2, x + 0, y + 0, 0, $FFEDB50E & $ffffff);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 1BD8E06C
+/// @DnDArgument : "soundid" "Sound7"
+/// @DnDSaveInfo : "soundid" "Sound7"
+audio_play_sound(Sound7, 0, 0, 1.0, undefined, 1.0);

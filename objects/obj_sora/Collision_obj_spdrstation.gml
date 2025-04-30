@@ -1,16 +1,13 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 222ABE50
+/// @DnDArgument : "soundid" "Sound3"
+/// @DnDSaveInfo : "soundid" "Sound3"
+audio_play_sound(Sound3, 0, 0, 1.0, undefined, 1.0);
+
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 6C86FB30
-/// @DnDArgument : "var" "other.y"
-/// @DnDArgument : "op" "2"
-/// @DnDArgument : "value" "self.y + 20"
-if(other.y > self.y + 20)
-{
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 3C893568
-	/// @DnDParent : 6C86FB30
-	/// @DnDArgument : "expr" "-jump_speed * 2"
-	/// @DnDArgument : "var" "move_y"
-	move_y = -jump_speed * 2;
-}
+/// @DnDHash : 2A07007F
+/// @DnDArgument : "room" "Room3"
+/// @DnDSaveInfo : "room" "Room3"
+room_goto(Room3);
