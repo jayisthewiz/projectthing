@@ -69,6 +69,7 @@
     {"name":"Room7","order":6,"path":"rooms/Room7/Room7.yy",},
     {"name":"kyleDIES","order":13,"path":"sounds/kyleDIES/kyleDIES.yy",},
     {"name":"sound_gamemusic","order":11,"path":"sounds/sound_gamemusic/sound_gamemusic.yy",},
+    {"name":"sound_gamemusicfull","order":14,"path":"sounds/sound_gamemusicfull/sound_gamemusicfull.yy",},
     {"name":"sound_gamemusiclevel2","order":12,"path":"sounds/sound_gamemusiclevel2/sound_gamemusiclevel2.yy",},
     {"name":"Sound10","order":9,"path":"sounds/Sound10/Sound10.yy",},
     {"name":"Sound11","order":10,"path":"sounds/Sound11/Sound11.yy",},
