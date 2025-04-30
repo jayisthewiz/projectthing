@@ -11,3 +11,10 @@ audio_play_sound(Sound3, 0, 0, 1.0, undefined, 1.0);
 /// @DnDArgument : "room" "Room5"
 /// @DnDSaveInfo : "room" "Room5"
 room_goto(Room5);
+
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 11E3A036
+/// @DnDArgument : "soundid" "sound_gamemusic"
+/// @DnDSaveInfo : "soundid" "sound_gamemusic"
+audio_stop_sound(sound_gamemusic);

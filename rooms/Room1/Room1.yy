@@ -51,6 +51,8 @@
     {"name":"inst_4DC60440","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_19AF465F","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3DA13CE7","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_682D9FAA","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_6CBAEBCB","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -94,6 +96,8 @@
       ],"layers":[],"name":"Instances_12","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_11","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_14C44708","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_14C44708","objectId":{"name":"obj_softspittaleft_room1","path":"objects/obj_softspittaleft_room1/obj_softspittaleft_room1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-2.4545455,"scaleY":2.8285716,"x":1088.0,"y":928.0,},
+        {"$GMRInstance":"","%Name":"inst_682D9FAA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_682D9FAA","objectId":{"name":"obj_song1","path":"objects/obj_song1/obj_song1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":352.0,"y":768.0,},
+        {"$GMRInstance":"","%Name":"inst_6CBAEBCB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6CBAEBCB","objectId":{"name":"obj_deathzone_2","path":"objects/obj_deathzone_2/obj_deathzone_2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":48.5,"scaleY":1.0,"x":-3104.0,"y":2912.0,},
       ],"layers":[],"name":"Instances_11","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_10","depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_F8FEDBF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F8FEDBF","objectId":{"name":"obj_coconut","path":"objects/obj_coconut/obj_coconut.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":1440.0,},
@@ -163,7 +167,7 @@
           -2147483648,-2,5,-162,-2147483648,-3,6,1,0,-11,-2147483648,-3,6,-6,-2147483648,-2,5,-177,-2147483648,
           -3,6,-4,-2147483648,-4,5,-171,-2147483648,-2,0,-2,6,-2,-2147483648,-3,6,-4,-2147483648,-4,5,-170,-2147483648,
           -3,0,-2,6,-2,-2147483648,-3,6,-7,-2147483648,1,5,-171,-2147483648,-2,0,-2,6,-2,-2147483648,-3,6,-7,-2147483648,
-          1,5,-170,-2147483648,-5,6,-2,-2147483648,-3,6,-7,-2147483648,1,5,-177,-2147483648,-3,6,-7,-2147483648,
+          1,5,-170,-2147483648,1,0,-4,6,-2,-2147483648,-3,6,-7,-2147483648,1,5,-177,-2147483648,-3,6,-7,-2147483648,
           1,5,-177,-2147483648,-3,6,-4,0,-3,-2147483648,1,5,-31,-2147483648,-17,14,-28,-2147483648,-6,8,-26,-2147483648,
           1,0,-53,-2147483648,-2,6,-2,0,-11,-2147483648,-3,6,-4,0,-3,-2147483648,1,5,-33,-2147483648,-14,14,-29,
           -2147483648,-6,8,-21,-2147483648,-5,0,-54,-2147483648,-2,6,-2,0,-11,-2147483648,-3,6,-3,4,1,0,-3,-2147483648,
