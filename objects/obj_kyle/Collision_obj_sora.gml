@@ -20,7 +20,7 @@ if(other.y < self.y + 20)
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 380F922C
 	/// @DnDParent : 101D5A07
-	/// @DnDArgument : "soundid" "Sound11"
-	/// @DnDSaveInfo : "soundid" "Sound11"
-	audio_play_sound(Sound11, 0, 0, 1.0, undefined, 1.0);
+	/// @DnDArgument : "soundid" "kyleDIES"
+	/// @DnDSaveInfo : "soundid" "kyleDIES"
+	audio_play_sound(kyleDIES, 0, 0, 1.0, undefined, 1.0);
 }
